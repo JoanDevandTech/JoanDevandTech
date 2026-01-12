@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joandev_es/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JoSeToVe)
 
-📍 **Galicia, España** | 💼 **+5 años de experiencia** | 🚀 **Innovación & IA**
+📍 **Galicia, España** | 💼 **+7 años de experiencia** | 🚀 **Innovación & IA**
 
 </div>
 
@@ -22,17 +22,17 @@
 const joan = {
     role: "Full Stack Developer & Tech Lead",
     location: "Galicia, España 🇪🇸",
-    experience: "5+ años",
+    experience: "7+ años",
     languages: ["Español", "Gallego", "Catalán", "Inglés"],
-    currentFocus: ["Python", "AI/ML", "Automation", "Cloud Architecture"],
+    currentFocus: ["Python", "AI/ML", "Automation", "Cloud Architecture", "PHP", "Laravel", "Symfony", "JS", "Svelte", "Vue.js", "React", "TypeScript", "Node.js", "FastAPI", "Docker", "Linux", "Ubuntu", "Caddy", "Git", "GitHub", "N8N", "OpenAI", "Bitrix24", "WordPress", "WooCommerce", "Shopify", "Moodle", "Magento", "Google Analytics", "Google Tag Manager", "Jira", "Asana", "Slack"],
     passion: "Innovación tecnológica y liderazgo de equipos",
     availability: "15 días de preaviso"
 };
 ```
 
-Desarrollador Full Stack con **más de 5 años de experiencia profesional**, especializado en **JavaScript (React, TypeScript)** y **Python**, con fuerte enfoque en **automatización** e **inteligencia artificial**. Desde 2021 combino roles de **Software Engineer** y **Líder Técnico**, coordinando equipos internacionales y trabajando en entornos multiproyecto.
+Desarrollador Full Stack con **más de 7 años de experiencia profesional**, especializado en **JavaScript (React, TypeScript)** y **Python**, con fuerte enfoque en **automatización** e **inteligencia artificial**. Desde 2021 combino roles de **Software Engineer** y **Líder Técnico**, coordinando equipos internacionales y trabajando en entornos multiproyecto.
 
-Perfil **autodidacta**, orientado a la **innovación** y con capacidad demostrada para **liderar desde un enfoque técnico**.
+Perfil **autodidacta** (Con doble grado superior en Ingeniería de Software y en Negocios Internacionales), orientado a la **innovación** y con capacidad demostrada para **liderar desde un enfoque técnico**.
 
 ---
 
@@ -41,13 +41,13 @@ Perfil **autodidacta**, orientado a la **innovación** y con capacidad demostrad
 ### 🔹 **Wired & Linked** | Full Stack Developer / Líder de Innovación
 **2025 - Actualidad**
 
-- 🚀 Responsable del área de **desarrollo e innovación tecnológica**
+- 🚀 Responsable del área de **desarrollo e innovación tecnológica en Wired & Linked**
 - ☁️ Liderazgo de proyectos **cloud** y **on-premise**
-- 🤖 Desarrollo intensivo con **Python (FastAPI)**, **JavaScript** y **TypeScript**
+- 🤖 Desarrollo intensivo con **Python (FastAPI)**, **JavaScript**, **PHP** y **TypeScript**
 - 🧠 Proyectos de **inteligencia artificial** con **OpenAI**, **Gemini** y otros **LLMs**
 - 🔄 Automatización de procesos y desarrollo de **APIs** e integraciones complejas
 - 👥 Coordinación de equipos distribuidos internacionalmente
-- 🎨 Desarrollo con **Svelte** y **SvelteKit**
+- 🎨 Conocimiento básico de **Svelte** y **SvelteKit**
 
 ### 🔹 **Joan Dev & Tech** | Full Stack Developer / Tech Lead
 **2019 - 2024**
@@ -55,14 +55,15 @@ Perfil **autodidacta**, orientado a la **innovación** y con capacidad demostrad
 - 🌐 Desarrollo y mantenimiento de múltiples proyectos web en entornos multiproyecto
 - 📊 Participación en todo el **ciclo de vida** de los productos
 - 👨‍💼 Liderazgo de equipos multidisciplinares y supervisión técnica
-- 🛠️ Stack completo: **Python**, **PHP**, **Node.js**, **React**, **Angular**
+- 🛠️ Stack completo: **Python**, **PHP**, **Node.js**, **React**, **JavaScript**
 - 🐳 Infraestructura con **Docker** y **Linux**
-- � Integraciones con **Bitrix24 API** y automatización con **n8n**
+- � Integraciones con **Bitrix24 API** y automatización con **n8n** y **Make**
 
 ### 🔹 **Macarena Hub S.A.S** | Web Developer (Freelance)
 **2018 - 2021**
 
 - 📱 Diseño **mobile-first** en **WordPress** y **Shopify**
+- 📱 Desarrollo con tecnologías **PHP** y **JavaScript** para plugins personalizados
 - 🎨 Desarrollo web y optimización de usabilidad
 - 🌍 Trabajo remoto con clientes internacionales
 
@@ -113,6 +114,7 @@ Perfil **autodidacta**, orientado a la **innovación** y con capacidad demostrad
 
 ### **Automatización & IA**
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Bitrix24](https://img.shields.io/badge/-Bitrix24-2FC7F7?style=flat-square&logo=bitrix24&logoColor=white)
 
@@ -129,16 +131,15 @@ Perfil **autodidacta**, orientado a la **innovación** y con capacidad demostrad
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Clickup](https://img.shields.io/badge/-Clickup-0052CC?style=flat-square&logo=clickup&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ### **Diseño**
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Google Stich](https://img.shields.io/badge/-Google_Stich-0052CC?style=flat-square&logo=google-stich&logoColor=white)
 
-### **Hardware & IoT**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ---
 
@@ -186,25 +187,11 @@ skills = {
 
 ---
 
-## 🎯 Objetivos Profesionales
-
-� Busco un **proyecto remoto** con foco en **innovación tecnológica** y **desarrollo**, donde pueda:
-
-- 🚀 Crecer como **Full Stack Senior Developer**
-- 🧠 Profundizar en **Python**, **IA** y **automatización**
-- 💻 Mantenerme cerca del **código** y del **impacto real** en los proyectos
-- 👥 Liderar equipos técnicos con visión innovadora
-
-**💰 Banda salarial esperada:** +34.000 € brutos anuales  
-**📅 Disponibilidad:** 15 días de preaviso
-
----
-
 ## 📞 Contacto
 
 <div align="center">
 
-📧 **Email:** [joantorreswork@gmail.com](mailto:joantorreswork@gmail.com) | [joan@joandev.com](mailto:joan@joandev.com)  
+📧 **Email:** [joan@joandev.com](mailto:joan@joandev.com)  
 📱 **Teléfono:** +34 676 353 215  
 🌐 **Web:** [joandev.com](https://joandev.com)  
 📍 **Ubicación:** La Coruña, Galicia, España
