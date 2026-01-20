@@ -3,12 +3,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joantorreses)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoanDevandTech/)
 [![Website](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joandev.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG8AVyfN9NIdlOVXkKtnwLQ)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joantorreses)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joandev_es/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JoSeToVe)
 
 📍 **Galicia, España** | 💼 **+7 años de experiencia** | 🚀 **Innovación & IA**
 
@@ -25,21 +21,18 @@ const joan = {
     experience: "7+ años",
     languages: ["Español", "Gallego", "Catalán", "Inglés"],
     currentFocus: ["Python", "AI/ML", "Automation", "Cloud Architecture", "PHP", "Laravel", "Symfony", "JS", "Svelte", "Vue.js", "React", "TypeScript", "Node.js", "FastAPI", "Docker", "Linux", "Ubuntu", "Caddy", "Git", "GitHub", "N8N", "OpenAI", "Bitrix24", "WordPress", "WooCommerce", "Shopify", "Moodle", "Magento", "Google Analytics", "Google Tag Manager", "Jira", "Asana", "Slack"],
-    passion: "Innovación tecnológica y liderazgo de equipos",
-    availability: "15 días de preaviso"
+    passion: "Innovación tecnológica y liderazgo de equipos"
 };
 ```
 
 Desarrollador Full Stack con **más de 7 años de experiencia profesional**, especializado en **JavaScript (React, TypeScript)** y **Python**, con fuerte enfoque en **automatización** e **inteligencia artificial**. Desde 2021 combino roles de **Software Engineer** y **Líder Técnico**, coordinando equipos internacionales y trabajando en entornos multiproyecto.
-
-Perfil **autodidacta** (Con doble grado superior en Ingeniería de Software y en Negocios Internacionales), orientado a la **innovación** y con capacidad demostrada para **liderar desde un enfoque técnico**.
 
 ---
 
 ## 💼 Experiencia Profesional
 
 ### 🔹 **Wired & Linked** | Full Stack Developer / Líder de Innovación
-**2025 - Actualidad**
+**2025 - Enero 2026**
 
 - 🚀 Responsable del área de **desarrollo e innovación tecnológica en Wired & Linked**
 - ☁️ Liderazgo de proyectos **cloud** y **on-premise**
@@ -50,7 +43,7 @@ Perfil **autodidacta** (Con doble grado superior en Ingeniería de Software y en
 - 🎨 Conocimiento básico de **Svelte** y **SvelteKit**
 
 ### 🔹 **Joan Dev & Tech** | Full Stack Developer / Tech Lead
-**2019 - 2024**
+**2019 - 2026**
 
 - 🌐 Desarrollo y mantenimiento de múltiples proyectos web en entornos multiproyecto
 - 📊 Participación en todo el **ciclo de vida** de los productos
@@ -59,8 +52,8 @@ Perfil **autodidacta** (Con doble grado superior en Ingeniería de Software y en
 - 🐳 Infraestructura con **Docker** y **Linux**
 - � Integraciones con **Bitrix24 API** y automatización con **n8n** y **Make**
 
-### 🔹 **Macarena Hub S.A.S** | Web Developer (Freelance)
-**2018 - 2021**
+### 🔹 **Macarena Hub S.A.S** | CTO
+**2018 - 2026**
 
 - 📱 Diseño **mobile-first** en **WordPress** y **Shopify**
 - 📱 Desarrollo con tecnologías **PHP** y **JavaScript** para plugins personalizados
